@@ -1,5 +1,5 @@
 # ChessVision - Digital Image Processing - Final Project
-![image](https://user-images.githubusercontent.com/54889635/110147847-cff6b700-7de4-11eb-9c56-f23b53037db5.png)
+![giphy](https://github.com/ramshi236/ChessVision/assets/72392859/28c5ad89-d632-4fce-b91d-831aaa0a912f)
 
 ▪ The recording of moves during a chess game is often a tedious manual task that impedes the flow of the game, especially in formats such as speed chess where manually recording moves hinders efficient use of time.
 
